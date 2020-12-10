@@ -1,0 +1,2 @@
+# inheritance
+Created with CodeSandbox
