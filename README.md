@@ -1,2 +1,1 @@
-# inheritance
-Created with CodeSandbox
+# boilerplate-react-functional-public
